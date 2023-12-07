@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresume_dbs=self.webpackChunkresume_dbs||[]).push([[699],{4926:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/docusaurus-databases/blog/tags/hola","allTagsPath":"/docusaurus-databases/blog/tags","count":1,"unlisted":false}')}}]);
