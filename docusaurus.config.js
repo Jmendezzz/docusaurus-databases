@@ -73,9 +73,9 @@ const config = {
         },
         items: [
 
-          {to: '/mongo', label: 'Mongo DB', position: 'left'},
-          {to: '/cassandra', label: 'Cassandra', position: 'left'},
-          {to: '/redis', label: 'Redis DB', position: 'left'},
+          {to: '/docs/databases/mongo', label: 'Mongo DB', position: 'left'},
+          {to: '/docs/databases/cassandra', label: 'Cassandra', position: 'left'},
+          {to: '/docs/databases/redis', label: 'Redis DB', position: 'left'},
 
           {
             href: 'https://github.com/Jmendezzz',
